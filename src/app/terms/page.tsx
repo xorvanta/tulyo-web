@@ -89,9 +89,9 @@ export default function TermsPage() {
           </section>
 
           <section className="space-y-3 pt-4 border-t border-white/10">
-            <h2 className="text-lg font-bold text-white">7. Governing Law & Contact</h2>
+            <h2 className="text-lg font-bold text-white">7. Governing Law</h2>
             <p>
-              These terms shall be governed by the laws of India. For any questions regarding these Terms, contact us at <a href="mailto:support@xorvanta.com" className="text-indigo-400 font-bold hover:underline">support@xorvanta.com</a>.
+              These terms shall be governed by the laws of India, with jurisdiction in Patna, Bihar.
             </p>
           </section>
         </div>

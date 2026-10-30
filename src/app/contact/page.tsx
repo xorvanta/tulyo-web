@@ -39,16 +39,10 @@ export default function ContactPage() {
             <div className="w-10 h-10 rounded-xl bg-indigo-500/15 border border-indigo-500/30 flex items-center justify-center text-indigo-400">
               <Mail size={20} />
             </div>
-            <h3 className="font-bold text-white text-base">User Support & Feedback</h3>
+            <h3 className="font-bold text-white text-base">User Support &amp; Feedback</h3>
             <p className="text-xs text-slate-400 leading-relaxed">
-              Have a question about setting up your salary ceiling, bill splits, or encrypted backups? Reach out to our team.
+              Have a question about setting up your salary ceiling, bill splits, or encrypted backups? Reach out to our support team in Patna, Bihar.
             </p>
-            <a
-              href="mailto:support@xorvanta.com"
-              className="inline-block text-xs font-black text-indigo-400 hover:text-indigo-300 transition-colors pt-2"
-            >
-              support@xorvanta.com →
-            </a>
           </div>
 
           {/* Card 2: Developer & Compliance */}

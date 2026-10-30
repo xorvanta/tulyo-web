@@ -151,8 +151,7 @@ export default function PrivacyPolicyPage() {
             </p>
             <div className="p-4 rounded-2xl bg-white/[0.03] border border-white/10 text-xs space-y-1">
               <p><strong>Organization:</strong> Xorvanta Technologies</p>
-              <p><strong>Contact Email:</strong> <a href="mailto:support@xorvanta.com" className="text-indigo-400 font-bold hover:underline">support@xorvanta.com</a></p>
-              <p><strong>Location:</strong> Bengaluru, Karnataka, India</p>
+              <p><strong>Location:</strong> Patna, Bihar, India</p>
             </div>
           </section>
         </div>
