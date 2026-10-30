@@ -65,9 +65,8 @@ export function Navbar() {
                   onClick={() => setPoliciesOpen(false)}
                   className="flex flex-col p-2.5 rounded-xl hover:bg-white/10 transition-colors"
                 >
-                  <span className="text-sm font-bold text-white flex items-center justify-between">
+                  <span className="text-sm font-bold text-white">
                     Privacy Policy
-                    <span className="text-[10px] text-emerald-400 font-bold bg-emerald-500/10 px-1.5 py-0.5 rounded border border-emerald-500/20">Play Store Ready</span>
                   </span>
                   <span className="text-xs text-slate-400 mt-0.5">Zero bytes stored outside device</span>
                 </Link>

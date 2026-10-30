@@ -58,7 +58,7 @@ export default function ContactPage() {
             </div>
             <h3 className="font-bold text-white text-base">Privacy & Compliance Desk</h3>
             <p className="text-xs text-slate-400 leading-relaxed">
-              Google Play reviewer queries, data safety clarifications, or security audit reports.
+              Data safety clarifications, enterprise inquiries, or security audit reports.
             </p>
             <p className="text-xs text-slate-300 font-mono pt-2">
               Xorvanta Technologies Pvt. Ltd.

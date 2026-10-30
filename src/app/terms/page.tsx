@@ -70,7 +70,7 @@ export default function TermsPage() {
           <section className="space-y-3">
             <h2 className="text-lg font-bold text-white">4. Intellectual Property</h2>
             <p>
-              All trademarks, software source code, brand assets (including The Dynamic Prism mark and wordmark), design layouts, and algorithms (including our Hare-Niemeyer Largest Remainder calculation and minimum-cash-flow graph simplification logic) are the exclusive intellectual property of Xorvanta Technologies.
+              All trademarks, software source code, brand assets, design layouts, and algorithms (including our Largest Remainder calculation and minimum-cash-flow graph simplification logic) are the exclusive intellectual property of Xorvanta Technologies.
             </p>
           </section>
 

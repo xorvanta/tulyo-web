@@ -6,7 +6,7 @@ import { Shield, Lock, CheckCircle2, ArrowLeft, Mail } from 'lucide-react';
 export const metadata: Metadata = {
   title: 'Privacy Policy | Tulyo',
   description:
-    'Official Privacy Policy for Tulyo (com.xorvanta.tulyo). Tulyo stores zero bytes of your financial records outside your device.',
+    'Official Privacy Policy for Tulyo. Tulyo stores zero bytes of your financial records outside your device.',
 };
 
 export default function PrivacyPolicyPage() {
@@ -25,13 +25,13 @@ export default function PrivacyPolicyPage() {
         <div className="border-b border-white/10 pb-8 mb-8">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-bold uppercase tracking-wider mb-4">
             <Shield size={14} />
-            Google Play Verified Privacy Policy
+            Data Sovereignty Policy
           </div>
           <h1 className="text-3xl sm:text-4xl font-black text-white tracking-tight">
             Privacy Policy for Tulyo
           </h1>
           <p className="text-xs text-slate-400 mt-2 font-medium">
-            Effective Date: October 27, 2026 • Application Package: <code className="text-indigo-300 font-mono">com.xorvanta.tulyo</code> • Developer: Xorvanta Technologies
+            Effective Date: October 2026 • Published by Xorvanta Technologies
           </p>
         </div>
 

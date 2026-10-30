@@ -108,15 +108,6 @@ export default function HomePage() {
                   </div>
                 </div>
               </div>
-
-              {/* Decorative Floating Prism Badge */}
-              <div className="absolute -top-6 -right-6 hidden sm:flex items-center gap-2 px-4 py-2.5 rounded-2xl glass-panel-elevated border border-white/20 shadow-xl shadow-black/40">
-                <img src="/images/app-icon-512.png" alt="Tulyo Icon" className="w-7 h-7 rounded-lg" />
-                <div>
-                  <span className="text-[10px] uppercase font-bold text-slate-400 block">Brand Design</span>
-                  <span className="text-xs font-black text-white">The Dynamic Prism</span>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -302,7 +293,7 @@ export default function HomePage() {
             <div className="flex items-center gap-2 mb-3">
               <Shield size={20} className="text-emerald-400" />
               <span className="text-xs font-black uppercase tracking-widest text-emerald-400">
-                Play Store Privacy & Data Safety Commitment
+                Zero-Server Privacy Guarantee
               </span>
             </div>
 
