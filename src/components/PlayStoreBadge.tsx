@@ -50,12 +50,6 @@ export function PlayStoreBadge({ className = '', size = 'normal' }: PlayStoreBad
           Google Play
         </span>
       </div>
-
-      <div className="ml-1 pl-2 border-l border-white/10 flex items-center">
-        <span className="text-[11px] font-bold text-emerald-400 bg-emerald-500/10 px-2 py-0.5 rounded-full border border-emerald-500/30">
-          v1.0 Ready
-        </span>
-      </div>
     </a>
   );
 }

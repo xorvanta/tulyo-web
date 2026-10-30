@@ -37,7 +37,7 @@ export default function HomePage() {
             {/* Top Pill */}
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-pill border border-indigo-500/30 text-indigo-300 text-xs font-black uppercase tracking-wider">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              v1.0 Production Ready • Zero-Server Local Architecture
+              Zero-Server Architecture • Offline-First Privacy
             </div>
 
             {/* Giant Title */}

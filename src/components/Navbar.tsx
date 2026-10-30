@@ -112,7 +112,7 @@ export function Navbar() {
             rel="noopener noreferrer"
             className="px-4 py-2.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-black uppercase tracking-wider flex items-center gap-2 shadow-lg shadow-indigo-600/30 transition-all hover:scale-105 active:scale-95"
           >
-            Download v1.0
+            Download App
             <ArrowRight size={14} />
           </a>
         </div>
